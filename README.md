@@ -1,4 +1,4 @@
-> My code for the git project
+> My scary merge conflick code
 
 ## I'm in the feature branch
 
