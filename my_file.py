@@ -10,4 +10,4 @@ def hi_there():
     #something
 
     def hi_there():
-    print("My local change")
+    print("Update python function with merge conflict")

@@ -1,4 +1,4 @@
-> My code for the git project
+> My scary merge conflick code
 
 > My innocent little change
 
